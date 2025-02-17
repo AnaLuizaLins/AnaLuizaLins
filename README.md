@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi I'm Ana Luiza Lins! 👋
 
-<!--
-**AnaLuizaLins/AnaLuizaLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently studying interaction with API's and FronEnd Testing 
+- 📫 How to contact me: ana.l.lin@aluno.senai.br 
+- ⚡ Fun fact: I've been studying IT since 2024 and in the process of becoming a Full Stack developer
+- 🎯 Walking to the goal
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+  <a href = "https://github.com/AnaLuizaLins/AnaLuizaLins/edit/main/README.md">
+  <img height="180em" scr :"https://github-readme-satats.vercel.app/api?username=AnaLuizaLins&show_icons=&tfalse&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" scr :""
+  </div>
