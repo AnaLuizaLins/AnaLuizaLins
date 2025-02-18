@@ -6,7 +6,8 @@
 - 🎯 Walking to the goal
 
   <div>
-  <a href = "https://github.com/AnaLuizaLins/AnaLuizaLins/edit/main/README.md">
-  <img height="180em" scr :"https://github-readme-satats.vercel.app/api?username=AnaLuizaLins&show_icons=&tfalse&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" scr :""
-  </div>
+  <a href="https://github.com/AnaLuizaLins">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLuizaLins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuizaLins&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
