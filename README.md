@@ -1,9 +1,9 @@
-## Hi I'm Ana Luiza Lins! 👋
+## Olá, meu nome é Ana Luiza Lins! 👋
 
-- 🔭 I'm currently studying interaction with API's and FronEnd Testing 
-- 📫 How to contact me: ana.l.lin@aluno.senai.br 
-- ⚡ Fun fact: I've been studying IT since 2024 and in the process of becoming a Full Stack developer
-- 🎯 Walking to the goal
+- 🔭 Atualmente estou estudando interação com API's e FronEnd Testing 
+- 📫 Como entrar em contato comigo: ana.l.lin@aluno.senai.br 
+- ⚡ Curiosidade: estudo TI desde 2024 e estou me tornando um desenvolvedor Full Stack
+- 🎯 Caminhando até o gol
 
   <div>
   <a href="https://github.com/AnaLuizaLins">
