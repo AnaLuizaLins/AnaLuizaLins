@@ -4,6 +4,7 @@
 - 📫 Como entrar em contato comigo: ana.l.lin@aluno.senai.br 
 - ⚡ Curiosidade: estudo TI desde 2024 e estou me tornando um desenvolvedor Full Stack
 - 🎯 Caminhando até o gol
+- 👽 Jovem Padawan em desenvolvimento!
 
   <div>
   <a href="https://github.com/AnaLuizaLins">
