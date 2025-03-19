@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou estudando Informatica para Internet na instituição SENAI
 - 🎓 Terminado o 3º ano do Ensino Médio, cursando o 2º ano de Informática
 - 📫 Como entrar em contato comigo: ana.l.lin@aluno.senai.br 
-- 🎯 Caminhando até o gol
+- 🥅 Caminhando até o gol
 - 👽 Jovem Padawan em desenvolvimento!
 
   <div>
